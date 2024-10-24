@@ -8,5 +8,5 @@
 
 
 
-[![stats (for those who are concerned](https://github-readme-stats.vercel.app/api?username=paraenseembh&show_icons=true&theme=transparent)]
+![stats (for those who are concerned](https://github-readme-stats.vercel.app/api?username=paraenseembh&show_icons=true&theme=transparent)
 
