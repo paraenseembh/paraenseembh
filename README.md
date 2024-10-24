@@ -8,5 +8,5 @@
 
 
 
-[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=paraenseembh)](https://github.com/paraenseembh/github-readme-gruvbox)
+[![stats (for those who are concerned](https://github-readme-stats.vercel.app/api?username=paraenseembh&show_icons=true&theme=transparent)]
 
