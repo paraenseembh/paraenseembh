@@ -8,7 +8,7 @@
 
 
 
-![stats](https://github-readme-stats.vercel.app/api?username=paraenseembh&show_icons=true&theme=tokyonight&hide_title=True)
+![stats](https://github-readme-stats.vercel.app/api?username=paraenseembh&show_icons=true&theme=swift&hide_title=True)
 
 
 
