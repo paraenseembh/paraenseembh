@@ -12,7 +12,7 @@
 
 
 
-![stats](https://github-readme-stats.vercel.app/api?username=paraenseembh&show_icons=true&theme=swift&hide_title=True)
+![stats](https://github-readme-stats.vercel.app/api?username=paraenseembh&show_icons=true&theme=transparent&hide_title=True)
 
 
 
