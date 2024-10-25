@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+    <!-- Background -->
+    <rect width="800" height="200" fill="#202124"/>
+    
+    <!-- Circuit Board Pattern -->
+    <path d="M0 40 H800 M0 80 H800 M0 120 H800 M0 160 H800" stroke="#2d2d30" stroke-width="0.5"/>
+    <path d="M40 0 V200 M120 0 V200 M200 0 V200 M280 0 V200 M360 0 V200 M440 0 V200 M520 0 V200 M600 0 V200 M680 0 V200 M760 0 V200" stroke="#2d2d30" stroke-width="0.5"/>
+
+    <!-- Binary Rain Effect -->
+    <g fill="#ff7043" font-family="Courier" font-size="12" opacity="0.4">
+        <text x="50" y="30">01</text>
+        <text x="150" y="50">10</text>
+        <text x="250" y="70">11</text>
+        <text x="350" y="40">00</text>
+        <text x="450" y="60">01</text>
+        <text x="550" y="30">10</text>
+        <text x="650" y="50">11</text>
+        <text x="750" y="70">00</text>
+    </g>
+
+    <!-- Main Quote -->
+    <text x="400" y="80" text-anchor="middle" fill="#ffffff" font-family="Georgia" font-size="24" font-style="italic">
+        "We can only see a short distance ahead,"
+    </text>
+    <text x="400" y="115" text-anchor="middle" fill="#ffffff" font-family="Georgia" font-size="24" font-style="italic">
+        "but we can see plenty there that needs to be done."
+    </text>
+    
+    <!-- Attribution -->
+    <text x="400" y="150" text-anchor="middle" fill="#ff7043" font-family="Georgia" font-size="16">
+        - Alan Turing
+    </text>
+    
+    <!-- Decorative Elements -->
+    <circle cx="200" cy="20" r="40" fill="#ffffff" opacity="0.02"/>
+    <circle cx="600" cy="20" r="40" fill="#ffffff" opacity="0.02"/>
+</svg>
