@@ -1,3 +1,4 @@
+## Ciência de Dados e Inteligência Artificial/Data Science & AI at Puc Minas 
 ## Stay creative
 <div align="center">
 <img src="https://raw.githubusercontent.com/paraenseembh/paraenseembh/main/turing-data.svg" width="800" alt="Turing Vision">
