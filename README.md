@@ -1,4 +1,12 @@
-## "Curiouser and curiouser!" - Alice in Wonderland
+## Being creative
+<div align="center">
+    <img src="caminho/para/sua/imagem.svg" width="800" alt="Data Analysis Stage">
+    
+> "All the world's a stage" - As You Like It
+>
+> *Where every data point tells its own story*
+</div>
+
 
 🔭 Working on: Data Science (with a side of History research)
 🌱 Learning: Advanced data analysis techniques and business intelligence
@@ -14,4 +22,4 @@
 
 <img src="https://img.shields.io/badge/Focus-Data%20Science-blue" />
 <img src="https://img.shields.io/badge/Skills-Analytics-white" />
-<img src="https://img.shields.io/badge/Languages-4-brown" />
+<img src="https://img.shields.io/badge/Languages-4-blue" />
