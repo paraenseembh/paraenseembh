@@ -1,6 +1,6 @@
 ## Stay creative
 <div align="center">
-    <img src="caminho/para/sua/imagem.svg" width="800" alt="Turing Vision">
+    <img src="paraenseembh/turing-data.svg" width="800" alt="Turing Vision">
     
 > "We can only see a short distance ahead, but we can see plenty there that needs to be done."
 >
