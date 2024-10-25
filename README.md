@@ -1,10 +1,6 @@
 ## Stay creative
 <div align="center">
-    <img src="paraenseembh/turing-data.svg" width="800" alt="Turing Vision">
-    
-> "We can only see a short distance ahead, but we can see plenty there that needs to be done."
->
-> *Where data meets possibility*
+<img src="https://raw.githubusercontent.com/paraenseembh/paraenseembh/main/turing-data.svg" width="800" alt="Turing Vision">
 </div>
 
 
