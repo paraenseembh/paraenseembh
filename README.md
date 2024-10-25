@@ -8,5 +8,10 @@
 
 
 
-![stats](https://github-readme-stats.vercel.app/api?username=paraenseembh&show_icons=true&theme=tokyonight&hide_title)
+![stats](https://github-readme-stats.vercel.app/api?username=paraenseembh&show_icons=true&theme=tokyonight&hide_title=True)
 
+
+
+<img src="https://img.shields.io/badge/Focus-Data%20Science-blue" />
+<img src="https://img.shields.io/badge/Skills-Analytics-green" />
+<img src="https://img.shields.io/badge/Languages-4-red" />
