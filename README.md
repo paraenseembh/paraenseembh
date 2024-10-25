@@ -13,5 +13,5 @@
 
 
 <img src="https://img.shields.io/badge/Focus-Data%20Science-blue" />
-<img src="https://img.shields.io/badge/Skills-Analytics-green" />
-<img src="https://img.shields.io/badge/Languages-4-red" />
+<img src="https://img.shields.io/badge/Skills-Analytics-white" />
+<img src="https://img.shields.io/badge/Languages-4-brown" />
