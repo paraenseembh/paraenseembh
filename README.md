@@ -1,10 +1,10 @@
-## Being creative
+## Stay creative
 <div align="center">
-    <img src="caminho/para/sua/imagem.svg" width="800" alt="Data Analysis Stage">
+    <img src="caminho/para/sua/imagem.svg" width="800" alt="Turing Vision">
     
-> "All the world's a stage" - As You Like It
+> "We can only see a short distance ahead, but we can see plenty there that needs to be done."
 >
-> *Where every data point tells its own story*
+> *Where data meets possibility*
 </div>
 
 
