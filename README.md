@@ -1,4 +1,4 @@
-## 🗃️ Lucas Rafael Nascimento
+## Lucas Rafael Nascimento 
 
 <h2 align="center">🐍 Python Developer</h2>
 <h3 align="center">📍 Ciência de Dados | Belo Horizonte-MG, Brasil</h3>
@@ -102,17 +102,17 @@ especialidades = {
 ---
 
 ## 🎯 Projetos em Destaque (desenvolvimento)
----
-🔬 **Análise Classificatória de dados de saneamento de Minas Gerais**: 
-Modelo ML para diagnóstico de métricas de saneamento em MG.
-🤖 **Chatbot Inteligente** - NLP aplicado ao atendimento automatizado  
-👁️ **Sistema de Visão Computacional** - Detecção e classificação de objetos  
-📊 **Dashboard de Business Intelligence** - Análise de dados em tempo real  
-🧠 **Rede Neural para Previsão de Séries Temporais** - Deep Learning aplicado  
-🇧🇷**Integração de bases de dados nutricionais a nível municipal para o Brasil inteiro** - Manipulação e integração de dados
----  
+🔬 **Análise Classificatória de dados de saneamento de Minas Gerais**: Modelo ML para diagnóstico de métricas de saneamento em MG.
 
----
+🤖 **Chatbot Inteligente** - NLP aplicado ao atendimento automatizado.
+
+👁️ **Sistema de Visão Computacional** - Detecção e classificação de objetos.
+
+📊 **Dashboard de Business Intelligence** - Análise de dados em tempo real.
+
+🧠 **Rede Neural para Previsão de Séries Temporais** - Deep Learning aplicado.
+
+🇧🇷 **Integração de bases de dados nutricionais a nível municipal para o Brasil inteiro** - Integração de dados usando códigos Python.
 
 ## 📫 Conecte-se Comigo
 
