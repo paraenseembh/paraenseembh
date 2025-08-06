@@ -16,7 +16,7 @@ Estudante de <a href="https://www.em.com.br/app/noticia/patrocinado/pucminas/202
 ---
 
 ## Portfolio
-<a href="https://github.com/ICEI-PUC-Minas-PPL-CDIA/ppl-cd-pcd-sist-int-2024-2-projeto_saneamento" target="_blank"> **Análise Classificatória de dados de saneamento de Minas Gerais**: Modelo ML para diagnóstico de métricas de saneamento em MG.</a>
+<a href="https://github.com/ICEI-PUC-Minas-PPL-CDIA/ppl-cd-pcd-sist-int-2024-2-projeto_saneamento" target="_blank"> **Análise Classificatória de dados de saneamento de Minas Gerais**: Modelo ML para diagnóstico de métricas de saneamento básico.</a>
 
 <a href="https://github.com/paraenseembh/projetoII_bancos_de_dados" target="_blank_"> **Projeto de almoxarifado de startup de direito do consumidor utilizando SQL.** </a>
 
