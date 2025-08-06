@@ -1,4 +1,4 @@
-## Lucas Rafael Nascimento 
+## Lucas Rafael Pessoa do Nascimento
 
 <h2 align="center">🐍 Python Developer</h2>
 <h3 align="center">📍 Ciência de Dados | Belo Horizonte-MG, Brasil</h3>
@@ -8,14 +8,12 @@
 </p>
 
 ---
-
-## 🚀 Sobre Mim
-
-Estudante de Ciência de Dados pela Pontifícia Universidade Católica de Minas Gerais. Atualmente estagiando na Prefeitura de Belo Horizonte. Mexo bastante com as ferramentas que envolvem as diferentes etapas da cultura orientada a dados, como as linguagens Python, SQL, R, entre outras. Além disso, tenho conhecimento do desenvolvimento fullstack para a criação de projetos que são mais robustos e que necessitam da integração com sistemas mais complexos. 
-
-🎯 **Foco atual**: Desenvolvimento de modelos de ML, análise preditiva e automação inteligente  
-🌱 **Aprendendo**: MLOps, Computer Vision e Processamento de Linguagem Natural  
-💡 **Objetivo**: Contribuir para projetos inovadores que impactem positivamente a sociedade
+Estudante de Ciência de Dados pela Pontifícia Universidade Católica de Minas Gerais. Atualmente estagiando na Prefeitura de Belo Horizonte. Deixo registrado no meu GitHub os usos públicos das ferramentas que utilizo diariamente.
+<ul>
+  <li> Códigos em Python e SQL </li>
+  <li> Bases de dados integradas </li>
+  <li> Aplicações juntando um pouco de tudo isso. </li>
+</ul>
 
 ---
 
@@ -76,43 +74,32 @@ Estudante de Ciência de Dados pela Pontifícia Universidade Católica de Minas 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
 
 ### ☁️ Cloud & DevOps
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
-<img width="20" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
 <img width="20" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 
 </div>
 
----
+<br>
 
-## 📈 Áreas de Expertise
+## Projetos em Desenvolvimento
+<a href="https://github.com/ICEI-PUC-Minas-PPL-CDIA/ppl-cd-pcd-sist-int-2024-2-projeto_saneamento" target="_blank"> **Análise Classificatória de dados de saneamento de Minas Gerais**: Modelo ML para diagnóstico de métricas de saneamento em MG.</a>
 
-```python
-especialidades = {
-    "Machine Learning": ["Supervised Learning", "Unsupervised Learning", "Ensemble Methods"],
-    "Deep Learning": ["Neural Networks", "CNN", "RNN", "Transfer Learning"],
-    "Data Science": ["EDA", "Feature Engineering", "Statistical Analysis"],
-    "NLP": ["Text Processing", "Sentiment Analysis", "Language Models"],
-    "Computer Vision": ["Image Classification", "Object Detection", "OCR"],
-    "MLOps": ["Model Deployment", "Pipeline Automation", "Model Monitoring"]
-}
-```
+<a href="https://github.com/paraenseembh/projetoII_bancos_de_dados" target="_blank_"> **Projeto de almoxarifado de startup de direito do consumidor utilizando SQL.** </a>
 
----
+<a href="https://github.com/AHChaves/IC-InSAN" target="_blank"> **Integração de bases de dados a nível municipal sobre o tema da segurança nutricional**</a>
+<br>
+<hr>
+Futuros projetos: ainda no forno...
+<br>
+<hr>
 
-## 🎯 Projetos em Destaque (desenvolvimento)
-🔬 **Análise Classificatória de dados de saneamento de Minas Gerais**: Modelo ML para diagnóstico de métricas de saneamento em MG.
+👁️ **Chatbot Inteligente para planejamento de férias na PBH (Prefeitura de Belo Horizonte)** - NLP aplicado ao atendimento automatizado.
 
-🤖 **Chatbot Inteligente** - NLP aplicado ao atendimento automatizado.
+👁️ **Sistema de Visão Computacional para esportes** - Detecção e classificação de objetos em vídeos de diferentes esportes.
 
-👁️ **Sistema de Visão Computacional** - Detecção e classificação de objetos.
+👁️ **Arquitetura de Data Warehouse para uso interno de Business Inteligence** - Análise de dados em tempo real, para reduzir o custo computacional e facilitar a visualização de dados.
 
-📊 **Dashboard de Business Intelligence** - Análise de dados em tempo real.
-
-🧠 **Rede Neural para Previsão de Séries Temporais** - Deep Learning aplicado.
-
-🇧🇷 **Integração de bases de dados nutricionais a nível municipal para o Brasil inteiro** - Integração de dados usando códigos Python.
 
 ## 📫 Conecte-se Comigo
 
@@ -141,7 +128,5 @@ especialidades = {
 ---
 
 <p align="center">
-  <em>"A inteligência artificial é a nova eletricidade" - Andrew Ng</em>
-</p>
 
 <img align="right" height="200" src="https://media1.tenor.com/m/CughyuQS8XIAAAAC/breakingbad-science.gif"  />
