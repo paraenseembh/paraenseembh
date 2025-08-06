@@ -6,7 +6,7 @@
 </p>
 
 ---
-Estudante de Ciência de Dados pela Pontifícia Universidade Católica de Minas Gerais. Atualmente estagiando na Prefeitura de Belo Horizonte. Deixo registrado no meu GitHub principalmente os usos públicos das ferramentas que utilizo diariamente e também as pesquisas nas quais me envolvo academicamente.
+Estudante de <a href="https://www.em.com.br/app/noticia/patrocinado/pucminas/2022/02/04/noticia-patrocinado-pucminas,1342550/puc-minas-lanca-nova-graduacao-em-ciencia-de-dados-com-projeto-diferenciado.shtml" target="_blank"> Ciência de Dados</a> pela <a href="https://icei.pucminas.br/" target="_blank">  Pontifícia Universidade Católica de Minas Gerais</a>. 
 <ul>
   <li> Códigos em Python e SQL; </li>
   <li> Bases de dados integradas; </li>
@@ -14,6 +14,15 @@ Estudante de Ciência de Dados pela Pontifícia Universidade Católica de Minas 
 </ul>
 
 ---
+
+## Portfolio
+<a href="https://github.com/ICEI-PUC-Minas-PPL-CDIA/ppl-cd-pcd-sist-int-2024-2-projeto_saneamento" target="_blank"> **Análise Classificatória de dados de saneamento de Minas Gerais**: Modelo ML para diagnóstico de métricas de saneamento em MG.</a>
+
+<a href="https://github.com/paraenseembh/projetoII_bancos_de_dados" target="_blank_"> **Projeto de almoxarifado de startup de direito do consumidor utilizando SQL.** </a>
+
+<a href="https://github.com/AHChaves/IC-InSAN" target="_blank"> **Integração de bases de dados a nível municipal sobre o tema da segurança nutricional**</a>
+
+<hr>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=paraenseembh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
@@ -70,14 +79,6 @@ Estudante de Ciência de Dados pela Pontifícia Universidade Católica de Minas 
 
 </div>
 
-<br>
-
-## Projetos em Desenvolvimento
-<a href="https://github.com/ICEI-PUC-Minas-PPL-CDIA/ppl-cd-pcd-sist-int-2024-2-projeto_saneamento" target="_blank"> **Análise Classificatória de dados de saneamento de Minas Gerais**: Modelo ML para diagnóstico de métricas de saneamento em MG.</a>
-
-<a href="https://github.com/paraenseembh/projetoII_bancos_de_dados" target="_blank_"> **Projeto de almoxarifado de startup de direito do consumidor utilizando SQL.** </a>
-
-<a href="https://github.com/AHChaves/IC-InSAN" target="_blank"> **Integração de bases de dados a nível municipal sobre o tema da segurança nutricional**</a>
 <br>
 <hr>
 Futuros projetos: ainda no forno...
