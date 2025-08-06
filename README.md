@@ -1,5 +1,3 @@
-## Lucas Rafael Pessoa do Nascimento
-
 <h2 align="center">🐍 Python Developer</h2>
 <h3 align="center">📍 Ciência de Dados | Belo Horizonte-MG, Brasil</h3>
 
@@ -8,11 +6,11 @@
 </p>
 
 ---
-Estudante de Ciência de Dados pela Pontifícia Universidade Católica de Minas Gerais. Atualmente estagiando na Prefeitura de Belo Horizonte. Deixo registrado no meu GitHub os usos públicos das ferramentas que utilizo diariamente.
+Estudante de Ciência de Dados pela Pontifícia Universidade Católica de Minas Gerais. Atualmente estagiando na Prefeitura de Belo Horizonte. Deixo registrado no meu GitHub principalmente os usos públicos das ferramentas que utilizo diariamente e também as pesquisas nas quais me envolvo academicamente.
 <ul>
-  <li> Códigos em Python e SQL </li>
-  <li> Bases de dados integradas </li>
-  <li> Aplicações juntando um pouco de tudo isso. </li>
+  <li> Códigos em Python e SQL; </li>
+  <li> Bases de dados integradas; </li>
+  <li> Aplicações juntando um pouco de tudo. </li>
 </ul>
 
 ---
@@ -24,7 +22,7 @@ Estudante de Ciência de Dados pela Pontifícia Universidade Católica de Minas 
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
 <div align="center">
   
@@ -64,14 +62,6 @@ Estudante de Ciência de Dados pela Pontifícia Universidade Católica de Minas 
 <img width="20" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sql logo" />
 
-### 💻 Fullstack
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-<img width="20" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-<img width="20" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-<img width="20" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
 
 ### ☁️ Cloud & DevOps
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
