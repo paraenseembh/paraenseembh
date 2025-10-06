@@ -2,7 +2,7 @@
 <h3 align="center">📍 Ciência de Dados | Belo Horizonte-MG, Brasil</h3>
 
 <p align="center">
-  <em>Onde eu tento fazer boas perguntas e buscar respostas melhores (quando possível).</em>
+  <em>Onde eu tento fazer boas perguntas e buscar respostas tão boas quanto (quando possível).</em>
 </p>
 
 ---
