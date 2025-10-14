@@ -1,4 +1,4 @@
-<h2 align="center">🐍 Python Developer</h2>
+<h2 align="center">Python Developer</h2>
 <h3 align="center">📍 Ciência de Dados | Belo Horizonte-MG, Brasil</h3>
 
 <p align="center">
