@@ -22,15 +22,6 @@ Estudante de <a href="https://www.em.com.br/app/noticia/patrocinado/pucminas/202
 
 <a href="https://github.com/AHChaves/IC-InSAN" target="_blank"> **Integração de bases de dados a nível municipal sobre o tema da segurança nutricional**</a>
 
-<hr>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paraenseembh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paraenseembh&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
----
-
 ## Stack Tecnológica
 
 <div align="center">
